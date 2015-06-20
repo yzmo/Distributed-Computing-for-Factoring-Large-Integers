@@ -1,14 +1,8 @@
 /**
- * CP 493
  * Distributed Elliptic Curve Method Server
- * 
- * Student Number: 	    049004685				
- * Student Name:   		Yongzhao Mo
- * Student Email:       moxx4685@wlu.ca
- * Date:		August.10, 2007
+ * Yongzhao Mo
  **/
 // Elliptic Curve Method (ECM) Prime Factorization
-// Based in Dario Alejandro Alpern's implementation
 
 import java.applet.*;
 import java.awt.*;
